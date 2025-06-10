@@ -20,7 +20,6 @@
 - 🔐 [VPN Telegram Bot](https://github.com/Korovin-L/ArcticVPN-Telegram-Bot) – Telegram bot for providing ArcticVPN services.
 - 🌐 [lesip.ru](https://lesip.ru) – Developed and deployed website.
 - 🤝 [wordom.ru](https://wordom.ru) – A SaaS platform for businesses to launch and manage referral programs.
-- 🛠 GitLab CI + Docker Registry + NLB – Custom DevOps infrastructure setup (repository in progress).
 
 ### 📬 Contact Me
 

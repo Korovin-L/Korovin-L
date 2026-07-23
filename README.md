@@ -14,10 +14,6 @@
 - 💬 Scripting in Python (Flask, Aiogram) and Bash
 - 🌐 Resume: [korovin-l.github.io](https://korovin-l.github.io)
 
-### 🚀 Projects
-- 🤝 [wordom.ru](https://wordom.ru) – SaaS platform for businesses to launch and manage referral programs. Built independently: backend, infrastructure, production deployment.
-- 🌐 [lesip.ru](https://lesip.ru) – Website with Telegram API integrationю Built with Python and Flask.
-
 ### 📬 Contact
 - Telegram: [@korovinL](https://t.me/korovinL)
 - Email: korovineldar24@gmail.com
